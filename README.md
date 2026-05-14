@@ -1,4 +1,4 @@
-## # Hi, I'm Akhand Pratap Singh 👋
+# Hi, I'm Akhand Pratap Singh
 
 🎓 BTech CSE Student  
 💻 Exploring the world of coding, AI & problem solving  
