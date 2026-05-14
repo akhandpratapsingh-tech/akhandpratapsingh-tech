@@ -1,16 +1,24 @@
-## Hi there 👋
+## # Hi, I'm Akhand Pratap Singh 👋
 
-<!--
-**akhandpratapsingh-tech/akhandpratapsingh-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+💻 Exploring the world of coding, AI & problem solving  
+🚀 Currently learning and building every day
 
-Here are some ideas to get you started:
+## Learning
+- C++
+- Python
+- Java
+- HTML & CSS
+- DSA & Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning everything I need to build impactful projects and grow every single day
+
+## Contact
+📧 akhandpratapsingh.work@gmail.com
+
+## Goals for 2026
+- Build real-world projects
+- Strengthen problem solving & coding skills
+- Contribute to open source
+
+---
