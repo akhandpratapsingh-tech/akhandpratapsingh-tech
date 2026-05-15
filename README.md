@@ -14,7 +14,7 @@
 Learning everything I need to build impactful projects and grow every single day
 
 ## Contact
-📧 akhandpratapsingh.work@gmail.com
+📧 akhandpratapsingh.tech@gmail.com
 
 ## Goals for 2026
 - Build real-world projects
